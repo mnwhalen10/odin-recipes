@@ -1,1 +1,2 @@
 # odin-recipes
+The purpose of thie projecti is to develop a website that shows a variety of recipes. In this project I look to leverage the skills I learned in the HTML section like linking to various pages, using headers, images, all while consdiering accessability.
